@@ -24,7 +24,7 @@ public class Operators2 {
                 break;
             case '/':
                 result = a/b;
-                break;
+
             default:
                 System.out.println("Неизвестная операция");
        // return result;
